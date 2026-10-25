@@ -15,7 +15,6 @@ export const schemaChildren = new Set([
   "unevaluatedProperties",
   "unevaluatedItems",
   "propertyNames",
-  "contentSchema",
   "not",
   "if",
   "then",
